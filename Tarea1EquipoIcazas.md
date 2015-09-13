@@ -8,6 +8,8 @@ de control de versiones anterior llamado
 *"sistema de control de revisiones"* (RCS), que gestiona
 archivos individuales, pero no proyectos integrales.
 
+![Dick Grune](http://www.dickgrune.com/pictures/dick.jpg "Dick Grune")
+
 Dick Grune creo lo que se conoce como la *"version antigua"*
 de CVS para poder cooperar con sus estudiantes
 (*Erik Baalbergen y Maarten Waage*)
