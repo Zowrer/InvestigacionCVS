@@ -4,5 +4,8 @@ Primer trabajo en equipo del curso de especialización en Linux Intel-BUAP: inve
 # Esta investigacion es hecha por Zowrer
 
 #Modificacion de una linea 
+<<<<<<< HEAD
 
 #modificacion para amend
+=======
+>>>>>>> 97b29f99863f48696f5557c0388e2b85d953fdc2
