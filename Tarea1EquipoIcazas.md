@@ -20,3 +20,11 @@ Inicialmente lo llamaron
 **cmt** (*commit versions independently*),
 porque les permitió combinar versiones independientes de codigo
 en un mismo proyecto.
+
+Grune lanzó públicamente el código (*un conjunto de scripts*)
+en Usenet para mod.sources el **23 de junio 1986**.
+Y por fin un sistema de control de versiones permitió
+a los desarrolladores trabajar simultaneamente
+de forma mas o menos independiente,
+pasando cada uno a trabajar sobre una copia del proyecto total
+que se iba sincronizando con el proyecto general.
