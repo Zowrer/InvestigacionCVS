@@ -43,3 +43,13 @@ fue presentado a la
 **Free Software Foundation**
 para su desarrollo y distribución.
 Así pasó a ser el sistema de control de versiones más usado del mundo.
+
+Desde entonces se han sucedido diversos cambios
+realizados por varias empresas,
+especialmente **Cygnus Support** y **Cyclic Software**.
+En la actualidad, casi todos los cambios recientes en **CVS**
+son obra de Cyclic. Y tras eliminar alguna dependencias
+CVS paso a ser parte oficial del proyecto **GNU**,
+además es usado por la mayoría de los grandes proyectos de
+software libre del mundo
+(*gcc, emacs, guile, gtk, gimp, gnome, linux, etc.*).
