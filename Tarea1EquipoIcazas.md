@@ -28,3 +28,18 @@ a los desarrolladores trabajar simultaneamente
 de forma mas o menos independiente,
 pasando cada uno a trabajar sobre una copia del proyecto total
 que se iba sincronizando con el proyecto general.
+
+Unos años mas tarde, en **1989**,
+***Brian Berliner***
+tomo los scripts de Grune  y los reescribió en C,
+creando lo que sería la *"versión moderna"* de CVS,
+ya con una clara arquitectura cliente-servidor,
+tiempo despues se le unieron ***Jeff Polk***
+y muchos otros colaboradores,
+lo liberaron para beneficio de la comunidad bajo la **GPL**.
+
+El **19 de noviembre de 1990**, CVS versión **1.0**
+fue presentado a la
+**Free Software Foundation**
+para su desarrollo y distribución.
+Así pasó a ser el sistema de control de versiones más usado del mundo.
